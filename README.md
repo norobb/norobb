@@ -12,7 +12,7 @@ I'm a student who spends most of his free time building things: apps, tools, sma
 | [**UntisNeo**](https://github.com/norobb/UntisNeo) | My own take on a school timetable app for WebUntis, because the official one could be nicer. |
 | [**Bluey for Android & Linux**](https://github.com/norobb/bluey-by-riley-android) | A blueberry focus buddy: Android app plus a GNOME/Wayland host. |
 | [**norobb.github.io**](https://github.com/norobb/norobb.github.io) | My personal website. |
-| [**photo-geolocator**](https://github.com/norobb/photo-geolocator) | Figuring out where a photo was taken. |
+| **Navigium Helper** | A userscript that auto-fills vocab answers in the Navigium Latin trainer. |
 
 ## Tools I use
 
