@@ -27,7 +27,8 @@ I'm a student who spends most of his free time building things: apps, tools, sma
 
 ## A few more things
 
-- 🛠️ Currently tinkering with ESP32 boards, home automation and local AI models
+- 🤖 I love playing and building with AI: coding agents, local models, and wiring LLMs into my own apps
+- 🛠️ Currently tinkering with ESP32 boards and home automation
 - 📱 Most of my apps start as "I'll just fix this one annoying thing"
 - 🐧 Daily driver: Arch-based Linux with GNOME, heavily customized
 - 🎯 Goal for this year: finish more projects than I start (no promises)
