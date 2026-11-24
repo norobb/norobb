@@ -9,7 +9,7 @@ I'm a student who spends most of his free time building things: apps, tools, sma
 | Project | What it is |
 |---|---|
 | [**Dayflow**](https://github.com/norobb/dayflow-assistant) | An AI-powered organization layer that turns messages, screenshots, PDFs and voice notes into events, tasks and reminders. |
-| [**UntisNeo**](https://github.com/norobb/UntisNeo) | My own take on a school timetable app for WebUntis, because the official one could be nicer. |
+| [**UntisNeo**](https://github.com/norobb/Untis_Neo) | My own take on a school timetable app for WebUntis, because the official one could be nicer. |
 | [**Bluey for Android & Linux**](https://github.com/norobb/bluey-by-riley-android) | A blueberry focus buddy: Android app plus a GNOME/Wayland host. |
 | [**norobb.github.io**](https://github.com/norobb/norobb.github.io) | My personal website. |
 | **Navigium Helper** | A userscript that auto-fills vocab answers in the Navigium Latin trainer. |
